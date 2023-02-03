@@ -1,2 +1,2 @@
-# shopify-clone-vercel
- shopify-clone-vercel
+# shopify-vercel
+ 
