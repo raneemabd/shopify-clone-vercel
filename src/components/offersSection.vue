@@ -71,7 +71,7 @@
         
 
         <v-carousel-item
-          src="https://images.app.goo.gl/YgEAJN1b2wp6qzpg8"
+          src="../../302097671_150602180987663_9222830492138357267_n.jpg"
           cover class="scale"
          style="width: 100%;"
         ></v-carousel-item>
