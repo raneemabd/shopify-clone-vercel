@@ -71,7 +71,7 @@
         
 
         <v-carousel-item
-          src="../../302097671_150602180987663_9222830492138357267_n.jpg"
+          src="../../302097671_150602180987663_9222830492138357267_n"
           cover class="scale"
          style="width: 100%;"
         ></v-carousel-item>
@@ -79,11 +79,11 @@
 
 
         <v-carousel-item
-          src="../../photo_2023-01-01_17-47-04.jpg"
+          src="../../photo_2023-01-01_17-47-04"
           cover class="scale"
         ></v-carousel-item>
         <v-carousel-item
-          src="../../offer2.jpg"
+          src="../../offer2"
           cover class="scale"
         ></v-carousel-item>
 
